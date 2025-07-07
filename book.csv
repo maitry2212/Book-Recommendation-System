@@ -1,0 +1,16 @@
+book_id,title,author,genre,description,cover_url,rating,language
+1,The Hobbit,J.R.R. Tolkien,Fantasy,"Bilbo goes on an adventure with dwarves.","https://covers.openlibrary.org/b/id/6979861-L.jpg",4.8,English
+2,The Lord of the Rings,J.R.R. Tolkien,Fantasy,"A hobbit carries a powerful ring to Mordor.","https://covers.openlibrary.org/b/id/8231856-L.jpg",4.9,English
+3,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,"A young wizard attends Hogwarts.","https://covers.openlibrary.org/b/id/7884866-L.jpg",4.7,English
+4,The Da Vinci Code,Dan Brown,Thriller,"A symbologist investigates a murder in Paris.","https://covers.openlibrary.org/b/id/8101350-L.jpg",4.1,English
+5,Angels & Demons,Dan Brown,Thriller,"Robert Langdon uncovers secrets in the Vatican.","https://covers.openlibrary.org/b/id/8228691-L.jpg",4.0,English
+6,Inferno,Dan Brown,Thriller,"Langdon tries to stop a global plague linked to Dante.","https://covers.openlibrary.org/b/id/8326304-L.jpg",4.2,English
+7,Pride and Prejudice,Jane Austen,Romance,"Elizabeth Bennet navigates love and society.","https://covers.openlibrary.org/b/id/8226195-L.jpg",4.5,English
+8,Emma,Jane Austen,Romance,"A young woman tries matchmaking with unexpected results.","https://covers.openlibrary.org/b/id/8059262-L.jpg",4.3,English
+9,To Kill a Mockingbird,Harper Lee,Classic,"Scout grows up in the racially charged South.","https://covers.openlibrary.org/b/id/8281993-L.jpg",4.6,English
+10,1984,George Orwell,Dystopian,"A man struggles in a totalitarian society under constant surveillance.","https://covers.openlibrary.org/b/id/7222246-L.jpg",4.4,English
+11,गोदान,मुंशी प्रेमचंद,हिन्दी साहित्य,"एक किसान होरी की गरीबी और संघर्ष की कहानी।","https://m.media-amazon.com/images/I/71I-LZ8AE2L._SY522_.jpg",4.7,Hindi
+12,गबन,मुंशी प्रेमचंद,हिन्दी साहित्य,"रामेश्वरी और रमानाथ की कहानी जो गबन में फंस जाते हैं।","https://m.media-amazon.com/images/I/81rGmI9YyVL._SY522_.jpg",4.5,Hindi
+13,तमस,भीष्म साहनी,हिन्दी साहित्य,"भारत-पाकिस्तान विभाजन के दौरान सांप्रदायिक दंगों की दास्तान।","https://m.media-amazon.com/images/I/71+dU0QeQVL._SY522_.jpg",4.6,Hindi
+14,मधुशाला,हरिवंश राय बच्चन,कविता,"शराब और जीवन दर्शन पर आधारित काव्य संग्रह।","https://m.media-amazon.com/images/I/91pVXxZCt2L._SY522_.jpg",4.8,Hindi
+15,चित्रलेखा,भगवतीचरण वर्मा,हिन्दी साहित्य,"काम और मोक्ष के बीच द्वंद्व की कथा।","https://m.media-amazon.com/images/I/81I9fFb8yQL._SY522_.jpg",4.6,Hindi
