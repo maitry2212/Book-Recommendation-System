@@ -1,18 +1,26 @@
 # 📚 Book Recommendation System
+---
 
-🚀 Overview
+ ## 🚀 Overview
 
 ✨ A content-based book recommendation system built with Python, pandas, scikit-learn, and Streamlit.
 
 🔍 Helps you discover books similar to your favorites — now with support for Hindi and English books! 🇮🇳🌍
 
+---
+
 This project reads book data from a simple CSV file, calculates similarity using TF-IDF + cosine similarity, and lets users:
 
 ✅ Search for books by title
+
 ✅ Filter books by language
+
 ✅ See recommended books with covers, ratings, and descriptions
 
-🔥 Features
+---
+
+## 🔥 Features
+
 📚 Content-based filtering: recommends books by analyzing their title, author, genre & description.
 
 🌐 Language filter: choose to browse All, English, or Hindi books.
@@ -23,9 +31,9 @@ This project reads book data from a simple CSV file, calculates similarity using
 
 🖱 Interactive UI: built with Streamlit, deploy anywhere in minutes.
 
-🖼 Demo
-<img src="https://user-images.githubusercontent.com/your-demo.png" width="700"/>
-📂 Dataset
+---
+
+## 📂 Dataset
 All data comes from a CSV file named book.csv.
 Here’s a sample structure:
 
@@ -35,19 +43,25 @@ Here’s a sample structure:
 | 11       | गोदान      | मुंशी प्रेमचंद | हिन्दी साहित्य | होरी की गरीबी की कहानी...  | covers/godan.jpg  | 4.7    | Hindi    |
 
 
-⚙️ Installation
+## ⚙️ Installation
+
 📦 Clone this repo
+
 git clone https://github.com/yourusername/book-recommendation-app.git
+
 cd book-recommendation-app
 
-🐍 Install requirements
+## 🐍 Install requirements
+
 pip install -r requirements.txt
 
-🚀 Run the app locally
+## 🚀 Run the app locally
+
 streamlit run app.py
+
 Then open your browser at 👉 http://localhost:8501.
 
-🛠 Tech Stack
+ ## 🛠 Tech Stack
 | Tool            | Usage                         |
 | --------------- | ----------------------------- |
 | 🐍 Python       | Core programming language     |
@@ -55,12 +69,15 @@ Then open your browser at 👉 http://localhost:8501.
 | 🤖 scikit-learn | TF-IDF vectorizer, cosine sim |
 | 🚀 Streamlit    | Web app interface             |
 
-📜 License
+## 📜 License
+
 This project is open source under the MIT License.
+
 Feel free to fork, improve, and use it in your own projects!
 
 🙌 Contributing
 Have ideas for new features or improvements?
+
 PRs and ⭐ stars are always welcome!
 
 🥳 Happy reading! 📚
